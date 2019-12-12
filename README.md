@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # formalin
 
 A new Flutter project.
